@@ -1,2 +1,2 @@
-# Puddl-index
+index
 systems mapping tool
